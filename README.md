@@ -1,1 +1,1 @@
-# Software developed for managing Libraries
+# Software developed for managing Library
