@@ -1,1 +1,1 @@
-# Library-Automation
+# Software developed for managing Libraries
